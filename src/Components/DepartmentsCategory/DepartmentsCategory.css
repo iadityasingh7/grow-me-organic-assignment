@@ -1,0 +1,13 @@
+section {
+  margin-left: 40px;
+}
+
+.parent-div {
+  margin-top: 40px;
+}
+.inner-div {
+  padding: 20px;
+  border: 2px solid #ddd;
+  border-radius: 9px;
+  width: 95%;
+}

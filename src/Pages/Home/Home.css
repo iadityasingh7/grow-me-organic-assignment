@@ -1,0 +1,10 @@
+.home-Box {
+  display: flex;
+  flex-direction: column;
+}
+
+.home-h1 {
+  font-size: 20px;
+  font-weight: 400;
+  padding: 20px;
+}
